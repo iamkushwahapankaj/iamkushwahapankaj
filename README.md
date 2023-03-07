@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamkushwahapankaj
 - 👀 I’m interested in solving problems.
 - 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on Open SOurce Projects.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Mail me at kushwahapankaj1916@gmail.com
 
 <!---
